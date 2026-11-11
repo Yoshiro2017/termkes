@@ -1,8 +1,8 @@
-= termkes =
+# termkes
 
-A custom Termux APT repository hosting pre-built packages (<code>bash</code>, <code>apt</code>, and more) across <code>aarch64</code>, <code>arm</code>, <code>i686</code>, and <code>x86_64</code> architectures.
+A custom Termux APT repository hosting pre-built packages (`bash`, `apt`, and more) across `aarch64`, `arm`, `i686`, and `x86_64` architectures.
 
-== How to Add This Repository to Termux ==
+## How to Add This Repository to Termux
 
 You can add this repository to your Termux setup by following these steps:
 
