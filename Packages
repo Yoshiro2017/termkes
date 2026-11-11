@@ -1,0 +1,364 @@
+Package: apt
+Version: 2.8.4
+Architecture: aarch64
+Essential: yes
+Maintainer: @termux
+Installed-Size: 4064
+Depends: coreutils, dpkg, findutils, gpgv, grep, libandroid-glob, libbz2, libc++ (>= 30), libiconv, libgcrypt, libgnutls, liblz4, liblzma, sed, termux-keyring, termux-licenses, xxhash, zlib, zstd
+Suggests: gnupg
+Conflicts: apt-transport-https, libapt-pkg, unstable-repo, game-repo, science-repo
+Replaces: apt-transport-https, libapt-pkg, unstable-repo, game-repo, science-repo
+Provides: unstable-repo, game-repo, science-repo
+Filename: ./apt_2.8.4_aarch64.deb
+Size: 1044492
+MD5sum: 6e596f888060b56d32d05490097c9939
+SHA1: 2e80e647b2d2908fcdb63e022b4d32e280894bfb
+SHA256: 49308843196ec0d774885c023749d36a79d93185721feb2427078ed5fbd26d5f
+Homepage: https://packages.debian.org/apt
+Description: Front-end for the dpkg package manager
+
+Package: apt
+Version: 2.8.4
+Architecture: arm
+Essential: yes
+Maintainer: @termux
+Installed-Size: 2856
+Depends: coreutils, dpkg, findutils, gpgv, grep, libandroid-glob, libbz2, libc++ (>= 30), libiconv, libgcrypt, libgnutls, liblz4, liblzma, sed, termux-keyring, termux-licenses, xxhash, zlib, zstd
+Suggests: gnupg
+Conflicts: apt-transport-https, libapt-pkg, unstable-repo, game-repo, science-repo
+Replaces: apt-transport-https, libapt-pkg, unstable-repo, game-repo, science-repo
+Provides: unstable-repo, game-repo, science-repo
+Filename: ./apt_2.8.4_arm.deb
+Size: 1012332
+MD5sum: 997d95fdac4e32eb4ae84738656eecae
+SHA1: a49332bc089d8127147c69026ab63de919e77ed5
+SHA256: 9d905f314a15c7d4d3161044a4c7fcc10624471ce5a017be66121e0d76f6dafb
+Homepage: https://packages.debian.org/apt
+Description: Front-end for the dpkg package manager
+
+Package: apt
+Version: 2.8.4
+Architecture: i686
+Essential: yes
+Maintainer: @termux
+Installed-Size: 4276
+Depends: coreutils, dpkg, findutils, gpgv, grep, libandroid-glob, libbz2, libc++ (>= 30), libiconv, libgcrypt, libgnutls, liblz4, liblzma, sed, termux-keyring, termux-licenses, xxhash, zlib, zstd
+Suggests: gnupg
+Conflicts: apt-transport-https, libapt-pkg, unstable-repo, game-repo, science-repo
+Replaces: apt-transport-https, libapt-pkg, unstable-repo, game-repo, science-repo
+Provides: unstable-repo, game-repo, science-repo
+Filename: ./apt_2.8.4_i686.deb
+Size: 1232548
+MD5sum: c4224c5b62dc34ac790eb7cb369102f2
+SHA1: 90508492969bf85d23d77fe6275046caa67fdc46
+SHA256: 8f80d9dc871431e39accadf95466140e307b745a3d0b3dff66d8e397479acd12
+Homepage: https://packages.debian.org/apt
+Description: Front-end for the dpkg package manager
+
+Package: apt
+Version: 2.8.4
+Architecture: x86_64
+Essential: yes
+Maintainer: @termux
+Installed-Size: 4232
+Depends: coreutils, dpkg, findutils, gpgv, grep, libandroid-glob, libbz2, libc++ (>= 30), libiconv, libgcrypt, libgnutls, liblz4, liblzma, sed, termux-keyring, termux-licenses, xxhash, zlib, zstd
+Suggests: gnupg
+Conflicts: apt-transport-https, libapt-pkg, unstable-repo, game-repo, science-repo
+Replaces: apt-transport-https, libapt-pkg, unstable-repo, game-repo, science-repo
+Provides: unstable-repo, game-repo, science-repo
+Filename: ./apt_2.8.4_x86_64.deb
+Size: 1177752
+MD5sum: a9b09f00cf42f81e92edbe0a44251d84
+SHA1: 9f3ea5e15e185c00a94d1fae1de1467d6809f6d1
+SHA256: 829173ebc641832927626f1b16982f17435b8d3f08478ebcbc1798d78dfbdd30
+Homepage: https://packages.debian.org/apt
+Description: Front-end for the dpkg package manager
+
+Package: apt
+Version: 2.8.4
+Architecture: aarch64
+Essential: yes
+Maintainer: @termux
+Installed-Size: 4064
+Depends: coreutils, dpkg, findutils, gpgv, grep, libandroid-glob, libbz2, libc++ (>= 30), libiconv, libgcrypt, libgnutls, liblz4, liblzma, sed, termux-keyring, termux-licenses, xxhash, zlib, zstd
+Suggests: gnupg
+Conflicts: apt-transport-https, libapt-pkg, unstable-repo, game-repo, science-repo
+Replaces: apt-transport-https, libapt-pkg, unstable-repo, game-repo, science-repo
+Provides: unstable-repo, game-repo, science-repo
+Filename: ./debs/apt_2.8.4_aarch64.deb
+Size: 1044348
+MD5sum: 5fac9821f1334262f447fff8e2615a7a
+SHA1: baef0f21225e84d7d7b73de6e451f69122b51690
+SHA256: 136563e170a2de41764e159d6bfafe8b99847e1317b1000dcde16e20286a9b3d
+Homepage: https://packages.debian.org/apt
+Description: Front-end for the dpkg package manager
+
+Package: apt
+Version: 2.8.4
+Architecture: arm
+Essential: yes
+Maintainer: @termux
+Installed-Size: 2856
+Depends: coreutils, dpkg, findutils, gpgv, grep, libandroid-glob, libbz2, libc++ (>= 30), libiconv, libgcrypt, libgnutls, liblz4, liblzma, sed, termux-keyring, termux-licenses, xxhash, zlib, zstd
+Suggests: gnupg
+Conflicts: apt-transport-https, libapt-pkg, unstable-repo, game-repo, science-repo
+Replaces: apt-transport-https, libapt-pkg, unstable-repo, game-repo, science-repo
+Provides: unstable-repo, game-repo, science-repo
+Filename: ./debs/apt_2.8.4_arm.deb
+Size: 1012056
+MD5sum: 4e289e79d77078f331e4ed7f3906cd3a
+SHA1: 4fc6fd010edd96597eb120c2d08078ee0adfded6
+SHA256: 54c6c14f7f43d5fd9a04c20efc073e2774e21f63f32b87cc1854fd6f00d6eec1
+Homepage: https://packages.debian.org/apt
+Description: Front-end for the dpkg package manager
+
+Package: apt
+Version: 2.8.4
+Architecture: i686
+Essential: yes
+Maintainer: @termux
+Installed-Size: 4276
+Depends: coreutils, dpkg, findutils, gpgv, grep, libandroid-glob, libbz2, libc++ (>= 30), libiconv, libgcrypt, libgnutls, liblz4, liblzma, sed, termux-keyring, termux-licenses, xxhash, zlib, zstd
+Suggests: gnupg
+Conflicts: apt-transport-https, libapt-pkg, unstable-repo, game-repo, science-repo
+Replaces: apt-transport-https, libapt-pkg, unstable-repo, game-repo, science-repo
+Provides: unstable-repo, game-repo, science-repo
+Filename: ./debs/apt_2.8.4_i686.deb
+Size: 1232332
+MD5sum: b7ab1c09d849db96d795bc95a853a566
+SHA1: 5be250459b618aeb3308dd7dacf62b5ae995d7ff
+SHA256: 6c4b4e69a2d8fde27a667930df23d169787e8771afe3848e6508609564fdc439
+Homepage: https://packages.debian.org/apt
+Description: Front-end for the dpkg package manager
+
+Package: apt
+Version: 2.8.4
+Architecture: x86_64
+Essential: yes
+Maintainer: @termux
+Installed-Size: 4232
+Depends: coreutils, dpkg, findutils, gpgv, grep, libandroid-glob, libbz2, libc++ (>= 30), libiconv, libgcrypt, libgnutls, liblz4, liblzma, sed, termux-keyring, termux-licenses, xxhash, zlib, zstd
+Suggests: gnupg
+Conflicts: apt-transport-https, libapt-pkg, unstable-repo, game-repo, science-repo
+Replaces: apt-transport-https, libapt-pkg, unstable-repo, game-repo, science-repo
+Provides: unstable-repo, game-repo, science-repo
+Filename: ./debs/apt_2.8.4_x86_64.deb
+Size: 1178756
+MD5sum: c4323625ade27ecd1ba0310d5cd4f496
+SHA1: 73750ecdd05080ab88a0406592855f43da394b89
+SHA256: 8849d2ca266c1eb29ebaca61845b64623c3f9c8a07a2e41491c9f1a2cd3dce52
+Homepage: https://packages.debian.org/apt
+Description: Front-end for the dpkg package manager
+
+Package: apt-ftparchive
+Version: 2.8.4
+Architecture: aarch64
+Maintainer: @termux
+Installed-Size: 316
+Depends: libdb, apt (= 2.8.4)
+Filename: ./apt-ftparchive_2.8.4_aarch64.deb
+Size: 95556
+MD5sum: 61dc988bbd54707673856664afd3461f
+SHA1: 7148b611f367429d7903f2b608b67394625ec690
+SHA256: 880333b471be9372d864a6136b48cd95740444ec0e389db2ccce3a57cfd04b21
+Homepage: https://packages.debian.org/apt
+Description: apt-ftparchive is the command line tool that generates the index files that APT uses to access a distribution source
+
+Package: apt-ftparchive
+Version: 2.8.4
+Architecture: arm
+Maintainer: @termux
+Installed-Size: 232
+Depends: libdb, apt (= 2.8.4)
+Filename: ./apt-ftparchive_2.8.4_arm.deb
+Size: 88740
+MD5sum: 3db48bcd3fc2c62b6f4cb2a546d11f24
+SHA1: c52f60343ae34627e811b3341557712807407f55
+SHA256: 261064d0a904e801786fe18c26b84d32d850a8032a5ca670a7c094bab295d6d5
+Homepage: https://packages.debian.org/apt
+Description: apt-ftparchive is the command line tool that generates the index files that APT uses to access a distribution source
+
+Package: apt-ftparchive
+Version: 2.8.4
+Architecture: i686
+Maintainer: @termux
+Installed-Size: 364
+Depends: libdb, apt (= 2.8.4)
+Filename: ./apt-ftparchive_2.8.4_i686.deb
+Size: 112828
+MD5sum: f22ea5cf691c434e1ee38729059c5801
+SHA1: 0ac2f132602f7676211f78e9bf3479fcfbe85ea0
+SHA256: 906b7963658b7a28aba41996713171ade86dd927ed3a3f144c8c0905b622f506
+Homepage: https://packages.debian.org/apt
+Description: apt-ftparchive is the command line tool that generates the index files that APT uses to access a distribution source
+
+Package: apt-ftparchive
+Version: 2.8.4
+Architecture: x86_64
+Maintainer: @termux
+Installed-Size: 364
+Depends: libdb, apt (= 2.8.4)
+Filename: ./apt-ftparchive_2.8.4_x86_64.deb
+Size: 108556
+MD5sum: d058954dc4264294dee70f286119a199
+SHA1: a33b729a9e98d634487e7bdb0e43d249c4aecb7c
+SHA256: 0826f2181e41b1d562ffaf18d7f82d9dece98f9aec88e52c46a98d2f5b58147e
+Homepage: https://packages.debian.org/apt
+Description: apt-ftparchive is the command line tool that generates the index files that APT uses to access a distribution source
+
+Package: apt-ftparchive
+Version: 2.8.4
+Architecture: aarch64
+Maintainer: @termux
+Installed-Size: 316
+Depends: libdb, apt (= 2.8.4)
+Filename: ./debs/apt-ftparchive_2.8.4_aarch64.deb
+Size: 95540
+MD5sum: 2d7fb65e145e5f98640d00d605d9028e
+SHA1: f26f9fe114aa094cafebe5bed2baec96724177a5
+SHA256: ff3f10bc496aaa2bdeddc2204d2444b95db93afc9b1fa606c648ea13ec17c3f8
+Homepage: https://packages.debian.org/apt
+Description: apt-ftparchive is the command line tool that generates the index files that APT uses to access a distribution source
+
+Package: apt-ftparchive
+Version: 2.8.4
+Architecture: arm
+Maintainer: @termux
+Installed-Size: 232
+Depends: libdb, apt (= 2.8.4)
+Filename: ./debs/apt-ftparchive_2.8.4_arm.deb
+Size: 88660
+MD5sum: 6af883d12a36088c2177e413ca98a84e
+SHA1: 684ca66ab7b5d02d28f739d953106f18383109da
+SHA256: 30a0d7f1554a6de09133ca0a48a095968e682616bb96253e6f5c33396e1f73af
+Homepage: https://packages.debian.org/apt
+Description: apt-ftparchive is the command line tool that generates the index files that APT uses to access a distribution source
+
+Package: apt-ftparchive
+Version: 2.8.4
+Architecture: i686
+Maintainer: @termux
+Installed-Size: 364
+Depends: libdb, apt (= 2.8.4)
+Filename: ./debs/apt-ftparchive_2.8.4_i686.deb
+Size: 113072
+MD5sum: 8e56212d46ca43755ba18ac8b0ab3dfd
+SHA1: a4a1985398f71298505f668a286d13962eda6bba
+SHA256: f54298689f6a266398c0a028c4f2f907d7e9674a6b4db9c3ce52167a03d9bf38
+Homepage: https://packages.debian.org/apt
+Description: apt-ftparchive is the command line tool that generates the index files that APT uses to access a distribution source
+
+Package: apt-ftparchive
+Version: 2.8.4
+Architecture: x86_64
+Maintainer: @termux
+Installed-Size: 364
+Depends: libdb, apt (= 2.8.4)
+Filename: ./debs/apt-ftparchive_2.8.4_x86_64.deb
+Size: 108932
+MD5sum: 2d4dbefecc7f63a62be638cd9902ec1e
+SHA1: 475e927b63a951afb97a57f9071e210300204cef
+SHA256: 3ff30d3196094e1b1f9bce836f3240aa77b689a9608f2d72d7c37b3ab84c20ac
+Homepage: https://packages.debian.org/apt
+Description: apt-ftparchive is the command line tool that generates the index files that APT uses to access a distribution source
+
+Package: apt-transport-tor
+Version: 2.8.4
+Architecture: all
+Maintainer: @termux
+Installed-Size: 44
+Depends: tor, apt (= 2.8.4)
+Filename: ./apt-transport-tor_2.8.4_all.deb
+Size: 928
+MD5sum: d59532a8df7704c76d45892202f40d05
+SHA1: 0b8542a3334fff5a739120ffa1ead8556e7e156a
+SHA256: be172541cb10c4679c635851ec3dce802c85c4cdd0b3d3a31d8d1e25cdc16c72
+Homepage: https://packages.debian.org/apt
+Description: APT transport for anonymous package downloads via Tor
+
+Package: apt-transport-tor
+Version: 2.8.4
+Architecture: all
+Maintainer: @termux
+Installed-Size: 44
+Depends: tor, apt (= 2.8.4)
+Filename: ./debs/apt-transport-tor_2.8.4_all.deb
+Size: 932
+MD5sum: 77e6dec0df8834d0c527e0d9025d1ec1
+SHA1: 6d8a864ae57a1141e16c1515ef42a6fc9a686879
+SHA256: f2f7d55bbda63592a9549f98c4ad5f03424c240b2f85a94bbb158fbcd1cfed61
+Homepage: https://packages.debian.org/apt
+Description: APT transport for anonymous package downloads via Tor
+
+Package: bash
+Version: 5.3.20
+Architecture: aarch64
+Essential: yes
+Maintainer: Joshua Kahn <tom@termux.dev>
+Installed-Size: 4736
+Depends: libandroid-support, libiconv, readline (>= 8.3), termux-tools
+Recommends: command-not-found, bash-completion
+Breaks: bash-dev
+Replaces: bash-dev
+Filename: ./bash_5.3.20_aarch64.deb
+Size: 956852
+MD5sum: be63e290a226dacb721022eafbffe690
+SHA1: 650e2945b58694b3ceb4064e30c524bf26db2c39
+SHA256: 26b5b3ab5b0ac0e3b372ac1e7ddd89270519c1eb25b88fe4175485c2de8086b2
+Homepage: https://www.gnu.org/software/bash/
+Description: A sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh)
+
+Package: bash
+Version: 5.3.20
+Architecture: arm
+Essential: yes
+Maintainer: Joshua Kahn <tom@termux.dev>
+Installed-Size: 4356
+Depends: libandroid-support, libiconv, readline (>= 8.3), termux-tools
+Recommends: command-not-found, bash-completion
+Breaks: bash-dev
+Replaces: bash-dev
+Filename: ./bash_5.3.20_arm.deb
+Size: 929476
+MD5sum: 62b3868b065ea176689a9f97fdf2b06d
+SHA1: 3fa584c07fc2ffd9e11ffa59c77eec0c207e9666
+SHA256: ccd12672eb2d6f2c99d8c6340919b7145aa12a18d8a8ffbe794683227c889e61
+Homepage: https://www.gnu.org/software/bash/
+Description: A sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh)
+
+Package: bash
+Version: 5.3.20
+Architecture: i686
+Essential: yes
+Maintainer: Joshua Kahn <tom@termux.dev>
+Installed-Size: 4632
+Depends: libandroid-support, libiconv, readline (>= 8.3), termux-tools
+Recommends: command-not-found, bash-completion
+Breaks: bash-dev
+Replaces: bash-dev
+Filename: ./bash_5.3.20_i686.deb
+Size: 981640
+MD5sum: 2cf3e820ee4bce51960e2c0eec204661
+SHA1: 4d29d4ac603eb12b6626764eb6f807b53840cb60
+SHA256: 175d2de5b7502f49083338f501c6e411b70bbdd72e86d972eb54b25b96b6cb46
+Homepage: https://www.gnu.org/software/bash/
+Description: A sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh)
+
+Package: bash
+Version: 5.3.20
+Architecture: x86_64
+Essential: yes
+Maintainer: Joshua Kahn <tom@termux.dev>
+Installed-Size: 4700
+Depends: libandroid-support, libiconv, readline (>= 8.3), termux-tools
+Recommends: command-not-found, bash-completion
+Breaks: bash-dev
+Replaces: bash-dev
+Filename: ./bash_5.3.20_x86_64.deb
+Size: 989716
+MD5sum: 55fe164d7a389188665a2c5a532cf229
+SHA1: 59e4af5380d6ee117104499c512f523152f314fe
+SHA256: f8c984e68269df3df2efae9f2835a9d9af381a8f80d08b34160772bc16cd0910
+Homepage: https://www.gnu.org/software/bash/
+Description: A sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh)
+

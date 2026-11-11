@@ -1,0 +1,14 @@
+Origin: Termkes
+Label: Custom Termkes Repository
+Suite: stable
+Codename: stable
+Architectures: aarch64 arm i686 x86_64 all
+Components: main
+Description: APT repository in root.
+Date: Wed, 11 Nov 2026 21:56:16 +0000
+MD5Sum:
+ 5f14902d5e6491dba0458670c5658fb0 14345 Packages
+ 99e45f4dc4bef805f3a753e60821b963 3151 Packages.gz
+SHA256:
+ 4c51718e331edd7425b5ec5b9c89cd36a2ba59c8913e91589860886306e95f01 14345 Packages
+ 10722de0549cab702da72b9d5b5d9e6cbc73f4c86b55163cd216c781220980c1 3151 Packages.gz
